@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/hikkie3110/hikkie3110.github.io.git
+	branch = master
