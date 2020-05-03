@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: hikkie3110/blog-test-hugo  # GitHubのリポジトリ　「https://github.com/xxxx/yyyy」の「xxxx/yyyy」の部分
+  repo: hikkie3110/blog  # GitHubのリポジトリ　「https://github.com/xxxx/yyyy」の「xxxx/yyyy」の部分
   branch: master
 
 publish_mode: editorial_workflow
