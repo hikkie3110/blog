@@ -13,11 +13,11 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://blog.hikkie.dev"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+languageCode = "ja"
+defaultContentLanguage = "ja"
 title = "hikkie's tech-blog"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+#disqusShortname = "hugo-tranquilpeak-theme"
 googleAnalytics = "UA-52890060-3"
 paginate = 7
 canonifyurls = true
@@ -39,7 +39,7 @@ canonifyurls = true
   # gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "/profile.jpg"
+  picture = "/img/profile.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "hikkie13"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
