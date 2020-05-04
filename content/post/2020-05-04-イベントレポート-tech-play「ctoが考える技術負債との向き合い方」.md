@@ -1,7 +1,7 @@
 ---
 title: "[イベントレポート]TECH PLAY「CTOが考える技術負債との向き合い方」"
 subtitle: TECH PLAYのイベント参加レポート
-date: 2020-05-04T06:16:08.381Z
+date: 2019-06-21T06:16:08.381Z
 author: hikkie3110
 tags:
   - event
