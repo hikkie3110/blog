@@ -36,7 +36,7 @@ canonifyurls = true
   job = "Infrastructure Engineer, Product Manager"
   location = "Tokyo, Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = ""
+  # gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "./static/img/profile.jpg"
