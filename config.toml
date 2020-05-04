@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Hugo tranquilpeak theme"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-52890060-3"
 paginate = 7
 canonifyurls = true
 
